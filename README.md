@@ -51,5 +51,7 @@
     - AdminDashboard 
 
 **STARTING PROJECT**
-`yarn`
-`yarn dev`
+```
+yarn
+yarn dev
+```
