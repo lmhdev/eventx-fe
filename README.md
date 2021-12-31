@@ -1,4 +1,4 @@
-# eventx-fe
+# eventx-fe ReactJS app structure
 
 **TECH STACK**
 - Language: Typescript 4.5.4
